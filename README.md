@@ -23,6 +23,10 @@ npm install
 npm run dev
 ```
 
+```sh
+npx webpack serve
+```
+
 ### Compile and Minify for Production
 
 ```sh
